@@ -7,3 +7,4 @@
 
 ![mosquitto.png](/.attachments/mosquitto-17bc6605-54d6-4238-8815-a203ccf19472.png)
 6.to run mosquitto as service: "mosquitto -v -p 666"
+![mosquittoservicePNG.PNG](/.attachments/mosquittoservicePNG-1b6829c1-4c11-446f-b2c7-67f169bd510b.PNG)
