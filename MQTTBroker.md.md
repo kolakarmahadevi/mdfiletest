@@ -15,3 +15,8 @@
 
 # Report App
 ![ReportAPP.png](/.attachments/ReportAPP-c936c405-4c9c-47c4-b9c8-63a83200d32a.png)
+
+
+![ReportAPP.png](/.attachments/ReportAPP-b16646bc-783a-4522-8181-fa34f17a7afd.png)
+
+![ReportAppSwagger.PNG](/.attachments/ReportAppSwagger-12938603-8733-44cb-831f-dd0541a66716.PNG)
